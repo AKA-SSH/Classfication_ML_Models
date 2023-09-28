@@ -1,4 +1,3 @@
-```markdown
 # Classification Machine Learning Models
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
