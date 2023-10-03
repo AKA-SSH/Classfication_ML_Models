@@ -1,5 +1,7 @@
 # Classification Machine Learning Models
 
+![kaggle score](https://i.imgur.com/KyQ3x63.png)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Overview
